@@ -671,7 +671,7 @@ GCの影響度を高めるためにもう少しランダム性(ランダムでal
 開発時や競技中に何が発生していたかを詳細に説明したいのですが、長くなりすぎるので開発時に使用していたシーケンス図を貼ります。
 個人的にはBullsEyeのシステムのソースコードも全部公開してしまいたいのですが、それはまた機会があれば。
 
-![シーケンス図](https://github.com/codeblue-ctf/codeblue-2018/tree/master/sequence.png)
+![シーケンス図](https://github.com/codeblue-ctf/codeblue-2018/raw/master/sequence.png)
 
 # Finals 1日目
 ## hugeh0ge
