@@ -278,7 +278,7 @@ The problem was something just like this:
 > N persons want to line up in a row. There are M constraints to be met: the i-th constraint is “the A_i-th person must be to the left of the B_i-th person”. In order to fulfill all of the M conditions, how should they line up? Answer it in the following format: 
 >   There will be Q questions. The i-th question asks you “should the X_i-th person be to the left of the Y_i-th person or not?”.  If he should, then print -1. If not, then print +1.
 
-The actual problem statement is [here](https://github.com/codeblue-ctf/codeblue-2018-problems/blob/master/Quals/CODE%20BLUE%20Online%20Judge/statement.pdf).
+The actual problem statement is [here](https://github.com/codeblue-ctf/codeblue-2018-problems/blob/master/problems/Quals/CODE%20BLUE%20Online%20Judge/statement.pdf).
 
 Competitive programmers would immediately notice this problem is just about topological sorting of a directed acyclic graph, and that the format of answering is really weird. Actually the judge program returns a verdict with the following routine:
 
@@ -497,7 +497,7 @@ This problem is wicked in the point that inappropriate tests or fuzzings won’t
 By the way, I want to say thanks to icchy of TokyoWesterns, who made CODE BLUE Online Judge part 1. I don’t know anything about web. Of course I can’t launch a contest site.
 
 
-# Finals前
+# Before Finals
 ## @hugeh0ge
 BOOM! The system development exploded! That took web guys the whole time, which led to “no web challenge”. Also, somehow crypto guys run away from their problem-setting. As a result we sent a very unbalanced problem set. It would have been better if we could prepare Bull’s Eye problems in other genres than pwn. However after all the Finals took place with 6 pwn problems(Bull’s Eye) and 1 crypto problem(Jeopardy). Bummer.
 
@@ -677,7 +677,7 @@ I also want to make the bullseye’s source code public when it is possible.
 
 ![シーケンス図](https://github.com/codeblue-ctf/codeblue-2018/raw/master/sequence.png)
 
-# Finals 1日目
+# Finals day 1
 ## hugeh0ge
 I cannot feel apologetic enough for the network issues in the beginning.
 The admins of the CTF and the NOC of CODE BLUE are completely different organizations, so even if the issues occurred, we had no way to cope with them. This means we should have taken the utmost care for the configuration of the network.
@@ -703,7 +703,7 @@ Actually the organizers were afraid of the result being decided only by this exc
 Of course it was disappointing to have only 6 rounds in itself.
 
 ## @mage_1868
-### 可視化
+### Visualization
 This time I developed the visualization system for Bull’s Eye.
 https://www.youtube.com/watch?v=1ojN39eV2_c
 
